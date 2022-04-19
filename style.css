@@ -1,0 +1,35 @@
+body{
+    font-family: Verdana;
+}
+
+.span1{
+    text-decoration: underline;
+    color: green;
+}
+
+.rojo{
+    color: red;
+    font-weight: bold;
+}
+
+.span2{
+    text-decoration: underline overline;
+    color: black;
+}
+
+.derrotarle{
+    font-size: 50px;
+}
+
+.azul{
+    color: blue;
+    font-weight: bolder;
+}
+
+#quiero{
+    text-decoration: underline;
+}
+
+.span2:hover{
+    color: yellowgreen;
+}
